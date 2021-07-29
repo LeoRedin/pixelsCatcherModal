@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="UI tests for ios/iPhone 12" tests="2" skipped="0" errors="0" failures="2" time="0.971" >
+  <testsuite name="UI tests for ios/iPhone 12" tests="2" skipped="0" errors="0" failures="2" time="0.971" >
+    <testcase classname="./snapshots/ios" name="AppSnapshot" time="0.689">
+      <failure>Width mismatch: expected 7, actual: 1170</failure>
+    </testcase>
+    <testcase classname="./snapshots/ios" name="AppWithModal" time="0.282">
+      <failure>Width mismatch: expected 7, actual: 1170</failure>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,14 @@
+{
+  "ios": {
+    "deviceName": "iPhone 12",
+    "packageName": "org.reactjs.native.example.pixelCatcherModal",
+    "snapshotsPath": "./snapshots/ios",
+    "dev": {},
+    "testPort": {},
+    "testPort2": {
+      "port": 3001
+    }
+  },
+  "logLevel": "v",
+  "timeout": 30000
+}
